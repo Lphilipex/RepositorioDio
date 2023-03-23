@@ -11,6 +11,6 @@ const consumo = distancia / gastoPorKm; // divide a distancia pelo gasto por km 
 
 const precoFinal = consumo * precoCombust; // depois multiplica o consumo pelo preco do combustivel assim obtendo o preco finla gsto por km
  
-console.log(precoFinal);
+console.log(precoFinal.toFixed(2)); //tofixed converte o valor para texto, colocar 2 casas depois do ponto 
 
 
