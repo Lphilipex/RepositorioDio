@@ -1,21 +1,11 @@
 
 
-
-
-
-
-let variavel = 10; //variaveis 
-
-
+let variavel = 10; //variavesis que podem ser reatribuidas
 
 console.log(variavel);//imprimir na tela 
 
-variavel = 20; // mudar valor da variavel 
+variavel = 20; // reatribuir valor  da variavel  let
 
+const pi = 3.14; // variaveis constantes que não podem ser reatribuidas 
 
-
-const pi = 3.14; //constante 
-
-
- 
-console.log(pi); //imorimir na tala 
+console.log(pi); //imprimir na tala 
