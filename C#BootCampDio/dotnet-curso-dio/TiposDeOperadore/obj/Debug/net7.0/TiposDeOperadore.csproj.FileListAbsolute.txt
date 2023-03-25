@@ -1,0 +1,15 @@
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\bin\Debug\net7.0\TiposDeOperadore.exe
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\bin\Debug\net7.0\TiposDeOperadore.deps.json
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\bin\Debug\net7.0\TiposDeOperadore.runtimeconfig.json
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\bin\Debug\net7.0\TiposDeOperadore.dll
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\bin\Debug\net7.0\TiposDeOperadore.pdb
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.csproj.AssemblyReference.cache
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.AssemblyInfoInputs.cache
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.AssemblyInfo.cs
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.csproj.CoreCompileInputs.cache
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.dll
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\refint\TiposDeOperadore.dll
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.pdb
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\TiposDeOperadore.genruntimeconfig.cache
+C:\Users\Admincli\dotnet-curso-dio\TiposDeOperadore\obj\Debug\net7.0\ref\TiposDeOperadore.dll

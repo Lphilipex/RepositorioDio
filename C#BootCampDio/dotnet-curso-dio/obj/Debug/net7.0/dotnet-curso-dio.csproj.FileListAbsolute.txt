@@ -1,0 +1,15 @@
+C:\Users\Admincli\dotnet-curso-dio\bin\Debug\net7.0\dotnet-curso-dio.exe
+C:\Users\Admincli\dotnet-curso-dio\bin\Debug\net7.0\dotnet-curso-dio.deps.json
+C:\Users\Admincli\dotnet-curso-dio\bin\Debug\net7.0\dotnet-curso-dio.runtimeconfig.json
+C:\Users\Admincli\dotnet-curso-dio\bin\Debug\net7.0\dotnet-curso-dio.dll
+C:\Users\Admincli\dotnet-curso-dio\bin\Debug\net7.0\dotnet-curso-dio.pdb
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.csproj.AssemblyReference.cache
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.AssemblyInfoInputs.cache
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.AssemblyInfo.cs
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.csproj.CoreCompileInputs.cache
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.dll
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\refint\dotnet-curso-dio.dll
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.pdb
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\dotnet-curso-dio.genruntimeconfig.cache
+C:\Users\Admincli\dotnet-curso-dio\obj\Debug\net7.0\ref\dotnet-curso-dio.dll

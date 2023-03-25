@@ -23,10 +23,10 @@ function clsassificarImc(imc) {
 (function () {
     const peso = 110;
     const altura = 1.75;
-    
+
     const imc = calcularImc(peso, altura)
-    console.log('seu imc e :',imc.toFixed(2), 'voce esta classificado como', clsassificarImc(imc));
-}) ();// função primcipal a função esta dentro dos parenteses por que assim nao e preciso chamar e essa funcao so funciona dentro desse parentese qunado se quer execuatr somente uma vez 
+    console.log('seu imc e :', imc.toFixed(2), 'voce esta classificado como', clsassificarImc(imc));
+})();// função primcipal a função esta dentro dos parenteses por que assim nao e preciso chamar e essa funcao so funciona dentro desse parentese qunado se quer execuatr somente uma vez 
 
 
 /*
