@@ -1,2 +1,2 @@
 #  Repositorio Para Desafio Dio 
-  Repositorio para porjetos dos meus bootcamp e Teste Pessoais
+Repositorio para exercícios e projetos do meus bootcapm!
