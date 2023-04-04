@@ -1,12 +1,10 @@
 ﻿using modulo2C.Models;
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "sd";
-p1.SobreNome =  "ccc";
+Pessoa p1 = new Pessoa(nome: "paulinho", sobrenome: "paulada");//usar nome:/ sobrenome:  para dizer o nome do parametro e depois o valor 
 
-Pessoa p2 = new Pessoa();
-p2.Nome = "aaaa";
-p2.SobreNome = "bbb";
+
+Pessoa p2 = new Pessoa(nomee: "pedrinho", sobrenome:"pedrada");
+
 
 
 curso cursoDeIngles = new curso();
