@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admincli\\Documents\\c#\\projeto-dio-primero-repositorio\\C#BootCampDio\\modulo2C#\\modulo2.csproj": {}
+    "C:\\Users\\luizp\\OneDrive\\Documentos\\preject\\RepositorioDio\\C#BootCampDio\\modulo2C#\\modulo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admincli\\Documents\\c#\\projeto-dio-primero-repositorio\\C#BootCampDio\\modulo2C#\\modulo2.csproj": {
+    "C:\\Users\\luizp\\OneDrive\\Documentos\\preject\\RepositorioDio\\C#BootCampDio\\modulo2C#\\modulo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admincli\\Documents\\c#\\projeto-dio-primero-repositorio\\C#BootCampDio\\modulo2C#\\modulo2.csproj",
+        "projectUniqueName": "C:\\Users\\luizp\\OneDrive\\Documentos\\preject\\RepositorioDio\\C#BootCampDio\\modulo2C#\\modulo2.csproj",
         "projectName": "modulo2",
-        "projectPath": "C:\\Users\\Admincli\\Documents\\c#\\projeto-dio-primero-repositorio\\C#BootCampDio\\modulo2C#\\modulo2.csproj",
-        "packagesPath": "C:\\Users\\Admincli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admincli\\Documents\\c#\\projeto-dio-primero-repositorio\\C#BootCampDio\\modulo2C#\\obj\\",
+        "projectPath": "C:\\Users\\luizp\\OneDrive\\Documentos\\preject\\RepositorioDio\\C#BootCampDio\\modulo2C#\\modulo2.csproj",
+        "packagesPath": "C:\\Users\\luizp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luizp\\OneDrive\\Documentos\\preject\\RepositorioDio\\C#BootCampDio\\modulo2C#\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admincli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\luizp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

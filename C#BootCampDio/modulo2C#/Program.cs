@@ -1,9 +1,25 @@
 ﻿using modulo2C.Models;
 
 Pessoa p1 = new Pessoa();
-
-p1.Nome = "bbb";
+p1.Nome = "sd";
 p1.SobreNome =  "ccc";
-p1.Idade = 22;
-p1.Apresentar();
+
+Pessoa p2 = new Pessoa();
+p2.Nome = "aaaa";
+p2.SobreNome = "bbb";
+
+
+curso cursoDeIngles = new curso();
+cursoDeIngles.Nome = "ingles";
+cursoDeIngles.Alunos = new List<Pessoa>();
+
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();
+
+
+
+
+
+
 
