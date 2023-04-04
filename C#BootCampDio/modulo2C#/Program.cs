@@ -3,7 +3,7 @@
 Pessoa p1 = new Pessoa(nome: "paulinho", sobrenome: "paulada");//usar nome:/ sobrenome:  para dizer o nome do parametro e depois o valor 
 
 
-Pessoa p2 = new Pessoa(nomee: "pedrinho", sobrenome:"pedrada");
+Pessoa p2 = new Pessoa(nome: "pedrinho", sobrenome:"pedrada");
 
 
 
