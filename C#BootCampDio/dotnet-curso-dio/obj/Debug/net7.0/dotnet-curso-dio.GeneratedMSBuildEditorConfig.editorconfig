@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotnet_curso_dio
-build_property.ProjectDir = c:\Users\Admincli\dotnet-curso-dio\
+build_property.ProjectDir = c:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\dotnet-curso-dio\

@@ -11,6 +11,7 @@ namespace DotnetCursoDio.Models // nome da classe para usar no programa.cs
         //inicio 
     public class Pessoa //criar classe pessoa
     {
+        
         public string Nome { get; set; } // caracteristica da classe 
         public int Idade { get; set; } //caracteristica da classe
 
