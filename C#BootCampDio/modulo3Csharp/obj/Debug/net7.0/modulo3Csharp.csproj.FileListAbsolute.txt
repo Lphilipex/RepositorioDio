@@ -1,0 +1,15 @@
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.csproj.AssemblyReference.cache
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\bin\Debug\net7.0\modulo3Csharp.exe
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\bin\Debug\net7.0\modulo3Csharp.deps.json
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\bin\Debug\net7.0\modulo3Csharp.runtimeconfig.json
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\bin\Debug\net7.0\modulo3Csharp.dll
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\bin\Debug\net7.0\modulo3Csharp.pdb
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.dll
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\refint\modulo3Csharp.dll
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.pdb
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\modulo3Csharp.genruntimeconfig.cache
+C:\Users\luizp\OneDrive\Documentos\preject\RepositorioDio\C#BootCampDio\modulo3Csharp\obj\Debug\net7.0\ref\modulo3Csharp.dll
