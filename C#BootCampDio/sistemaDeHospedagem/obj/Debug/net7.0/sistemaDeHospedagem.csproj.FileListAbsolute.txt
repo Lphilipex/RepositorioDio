@@ -1,0 +1,15 @@
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\bin\Debug\net7.0\sistemaDeHospedagem.exe
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\bin\Debug\net7.0\sistemaDeHospedagem.deps.json
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\bin\Debug\net7.0\sistemaDeHospedagem.runtimeconfig.json
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\bin\Debug\net7.0\sistemaDeHospedagem.dll
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\bin\Debug\net7.0\sistemaDeHospedagem.pdb
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.csproj.AssemblyReference.cache
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.dll
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\refint\sistemaDeHospedagem.dll
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.pdb
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\sistemaDeHospedagem.genruntimeconfig.cache
+C:\Users\Admincli\Documents\c#\RepositorioDio\C#BootCampDio\sistemaDeHospedagem\obj\Debug\net7.0\ref\sistemaDeHospedagem.dll
